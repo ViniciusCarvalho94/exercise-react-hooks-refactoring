@@ -1,10 +1,10 @@
 // src/Cars.jsx
 
 import React, { Component } from 'react';
-import CarsContext from './context/CarsContext';
-import carBlue from './images/carBlue.jpeg';
-import carRed from './images/carRed.jpeg';
-import carYellow from './images/carYellow.jpeg';
+import CarsContext from '../context/CarsContext';
+import carBlue from '../images/carBlue.jpeg';
+import carRed from '../images/carRed.jpeg';
+import carYellow from '../images/carYellow.jpeg';
 
 class Cars extends Component {
   render() {

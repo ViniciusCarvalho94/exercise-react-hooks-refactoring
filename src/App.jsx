@@ -1,8 +1,8 @@
 // src/App.js
 
 import React from 'react';
-import './App.css';
-import Cars from './Cars';
+import '../src/style/App.css';
+import Cars from '../src/components/Cars';
 
 function App() {
   return (
